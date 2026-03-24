@@ -21,6 +21,11 @@ const videos = [
     title: 'Papal Visit Africa 2026',
     videoPath: '/video_gallery/vid2.mp4',
   },
+   {
+    id: 4,
+    title: 'Papal Visit Africa 2026',
+    videoPath: '/video_gallery/vid4.mp4',
+  },
 ]
 
 export default function VideosPage() {
