@@ -44,6 +44,8 @@
       "vatican": "Vatican.va",
       "aciAfrica": "ACI Africa",
       "ewtnAfrica": "EWTN Africa",
+      "ewtnAsiaPacific": "EWTN Asia Pacific",
+      "ewtnAfrique": "EWTN Afrique",
       "catholicNewsAgency": "Catholic News Agency",
       "vatican237": "Vatican237.org"
     },
@@ -142,7 +144,7 @@
       "dates": "He will visit Algiers and Annaba (Apr 13–15), Yaoundé, Bamenda, and Douala (Apr 15–18), Luanda, Muxima, and Saurimo (Apr 18–21), and Malabo, Mongomo, and Bata (Apr 21–23).",
       "readMore": "Read More"
     },
-    "newsItems": {
+        "newsItems": {
       "official": {
         "date": "March 10, 2024",
         "title": "Official Announcement of Papal Visit",
@@ -164,8 +166,7 @@
         "fullContent": "Cameroonian authorities and Church leaders are working together to ensure a warm welcome. Security arrangements and event venues are being finalized. The government has established a special committee to coordinate all aspects of the visit, including security, logistics, and protocol. Church officials are organizing spiritual events and gatherings for the faithful. Security arrangements include deploying additional police forces, establishing secure perimeters for event venues, and coordinating with Vatican security teams. Event venues are being prepared to accommodate large crowds, with special attention to accessibility for elderly and disabled attendees. The preparations demonstrate Cameroon's commitment to ensuring a safe and memorable visit for Pope Leo XIV.",
         "readMore": "Read More"
       }
-    },
-    "viewAllNews": "View All News"
+    }
   },
   "accreditations": {
     "title": "Accreditations",

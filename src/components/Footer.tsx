@@ -92,6 +92,16 @@ export default function Footer() {
                   </a>
                 </li>
                 <li>
+                  <a href="https://ewtnasiapacific.com/" target="_blank" rel="noopener noreferrer" className="text-gray-300 hover:text-yellow-400 transition-colors">
+                    {t('websites.ewtnAsiaPacific')}
+                  </a>
+                </li>
+                <li>
+                  <a href="https://ewtnafrique.com/" target="_blank" rel="noopener noreferrer" className="text-gray-300 hover:text-yellow-400 transition-colors">
+                    {t('websites.ewtnAfrique')}
+                  </a>
+                </li>
+                <li>
                   <a href="https://www.catholicnewsagency.com" target="_blank" rel="noopener noreferrer" className="text-gray-300 hover:text-yellow-400 transition-colors">
                     {t('websites.catholicNewsAgency')}
                   </a>

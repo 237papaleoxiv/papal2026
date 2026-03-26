@@ -49,6 +49,8 @@
       "vatican": "Vatican.va",
       "aciAfrica": "ACI Africa",
       "ewtnAfrica": "EWTN Africa",
+      "ewtnAsiaPacific": "EWTN Asie-Pacifique",
+      "ewtnAfrique": "EWTN Afrique",
       "catholicNewsAgency": "Catholic News Agency",
       "vatican237": "Vatican237.org"
     },
@@ -169,8 +171,7 @@
         "fullContent": "Les autorités camerounaises et les leaders de l'Église travaillent ensemble pour assurer un accueil chaleureux. Les dispositions de sécurité et les lieux des événements sont finalisés. Le gouvernement a établi un comité spécial pour coordonner tous les aspects de la visite, y compris la sécurité, la logistique et le protocole. Les responsables ecclésiastiques organisent des événements spirituels et des rassemblements pour les fidèles. Les dispositions de sécurité incluent le déploiement de forces policières supplémentaires, l'établissement de périmètres sécurisés pour les lieux des événements et la coordination avec les équipes de sécurité du Vatican. Les lieux des événements sont préparés pour accueillir de grandes foules, avec une attention particulière à l'accessibilité pour les personnes âgées et handicapées. Les préparations démontrent l'engagement du Cameroun à assurer une visite sûre et mémorable pour le Pape Léon XIV.",
         "readMore": "Lire Plus"
       }
-    },
-    "viewAllNews": "Voir Toutes les Nouvelles"
+    }
   },
   "photoGallery": {
     "photoGallery": "Galerie Photo",
