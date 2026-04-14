@@ -41,7 +41,7 @@ function ArticleContent({ locale }: { locale: string }) {
           {/* Header Image Section */}
           <div className="relative h-[400px] w-full">
             <Image
-              src="/cwa_mother.png"
+              src="/cwa_mothers_group.jpg"
               alt={t('title')}
               fill
               className="object-cover"

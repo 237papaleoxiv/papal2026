@@ -13,7 +13,7 @@ export default function NewsUpdates() {
       id: 0,
       title: "A CWA (Catholic Women's Association) Mother’s Hope for the upcoming Apostolic Visit",
       description: "As the rhythmic chanting of the CWA fills our parishes and our blue-and-white uniforms are pressed in readiness, we find ourselves at a historic threshold. For us, the \"Mothers of the Church,\" the upcoming visit of His Holiness is more than a diplomatic event; it is a spiritual homecoming.",
-      image: "/cwa_mother.png",
+      image: "/cwa_mothers_group.jpg",
       link: `/${locale}/news/cwa-mothers-hope`,
       isInternal: true
     },
