@@ -21,7 +21,56 @@
   "newsUpdates": {
     "title": "Actualités et Mises à Jour",
     "subtitle": "Restez informé avec les dernières nouvelles, annonces et réflexions spirituelles du voyage apostolique du Pape Léon XIV",
-    "readArticle": "Lire l'Article"
+            "readArticle": "Lire l'Article",
+    "backToNews": "Retour aux Actualités",
+    "cwaArticle": {
+      "title": "L'Espérance d'une Mère de la CWA (Association des Femmes Catholiques) pour la prochaine Visite Apostolique",
+      "subtitle": "Par Mami Marion Nkwanyuo",
+      "location": "Diocèse Notre-Dame de l'Espérance, Douala",
+      "intro": "Alors que les chants rythmés de la CWA remplissent nos paroisses et que nos uniformes bleu et blanc sont prêts, nous nous trouvons à un seuil historique. Pour nous, les « Mères de l'Église », la visite prochaine de Sa Sainteté est plus qu'un événement diplomatique ; c'est un retour aux sources spirituel.",
+      "content": "Nous portons le poids de nos familles et les prières silencieuses de nos communautés dans nos cœurs, regardant le Saint-Père comme un berger qui apporte un message de « signification spirituelle, de paix et d'espoir ». À une époque où notre société aspire à la guérison et à la réconciliation, nous attendons cette visite comme un « moment de grâce » qui renforce notre engagement envers l'Évangile et amplifie les voix de ceux qui souffrent en silence. S'inspirant de la Bienheureuse Vierge Marie, notre modèle de service et d'humilité, nous attendons avec des « cœurs attentifs », impatients de recevoir la bénédiction du Pape comme catalyseur d'unité et de renouveau de notre mission de bâtisseurs de paix au sein de nos foyers et de notre nation. En tant que mère de la CWA, mes attentes pour la visite papale sont ancrées dans notre identité de « pilier de force et de service ». Guidée par la devise « Servir et non être servie », j'attends avec impatience la visite comme un moment de profond renouveau spirituel, de reconnaissance des rôles vitaux des femmes et de l'autonomisation du leadership, de plaidoyer pour la justice et la paix et de renforcement de la famille et de la communauté.",
+      "sections": [
+        {
+          "title": "1. Enrichissement et renouveau spirituels",
+          "items": [
+            "Je m'attends à ce que la visite fournisse une nourriture spirituelle à travers la célébration de la sainte messe, approfondissant ma relation personnelle avec Dieu.",
+            "Marie comme modèle : Suivant le slogan de la CWA « Par Marie vers Jésus », j'attends du Pape qu'il souligne le « génie féminin » et la vie exemplaire de la Mère Marie.",
+            "Il y a une forte attente pour que le Pape invoque l'intercession de Notre-Dame de l'Immaculée Conception, patronne de la CWA, et reconnaisse notre travail inlassable dans « l'évangélisation des familles »."
+          ]
+        },
+        {
+          "title": "2. Reconnaissance des rôles des femmes et autonomisation du leadership",
+          "items": [
+            "J'espère un message qui valide nos contributions non seulement en tant que « mères de l'Église », mais en tant que leaders essentielles dans le travail pastoral et le développement communautaire.",
+            "Sur la base des thèmes papaux récents, je m'attends à des encouragements pour que les femmes assument davantage de rôles décisionnels et de responsabilités plus élevées au sein de la hiérarchie étatique.",
+            "J'attends du Saint-Père qu'il remercie spécifiquement les femmes laïques qui travaillent dans les paroisses et leurs foyers, souvent face à l'inégalité."
+          ]
+        },
+        {
+          "title": "3. Plaidoyer pour la justice et la paix",
+          "items": [
+            "En tant que « porteuses morales dans la communauté », j'attends un message d'espoir et de réconciliation, en particulier dans les régions confrontées à l'instabilité ou aux conflits.",
+            "J'attends du Pape qu'il aborde des questions telles que la violence sexiste, l'inégalité et la protection de la dignité des femmes et des filles.",
+            "Je m'attends à ce que la visite mette en lumière la mission principale de la CWA en matière d'œuvres de bienfaisance, telles que l'aide aux malades, aux démunis et aux marginalisés."
+          ]
+        },
+        {
+          "title": "4. Renforcement de la famille et de la communauté",
+          "items": [
+            "J'espère des conseils sur la promotion des valeurs de la famille catholique et le moulage des enfants et des jeunes dans une ère moderne difficile.",
+            "Je m'attends à ce que la visite favorise la cohésion sociale et une « culture de la rencontre », rassemblant des femmes d'horizons différents pour travailler au bien commun."
+          ]
+        }
+      ],
+      "conclusion": "En conclusion, pour une mère de la CWA, la visite apostolique du pape Léon XIV représente plus qu'un événement historique ; c'est un retour aux sources spirituel. Je compte sur le Saint-Père pour raviver la flamme de la foi au sein de ma famille et offrir une bénédiction de paix sur un monde dans le besoin. En fin de compte, mon espoir est que cette visite laissera un héritage durable de grâce, renforçant ma détermination à diriger mon foyer et ma communauté avec un dévouement renouvelé et un amour maternel.",
+      "author": {
+        "name": "Mami Marion Nkwanyuo",
+        "branch": "Branche CWA Modèle de Vertu",
+        "zone": "Zone Servante Immaculée",
+        "division": "Division Trône de la Sagesse",
+        "diocese": "Diocèse Notre-Dame de l'Espérance, Douala"
+      }
+    }
   },
   "services": {
     "title": "VOYAGE APOSTOLIQUE DE SA SAINTETÉ LE PAPE LÉON XIV EN ALGÉRIE, CAMEROUN, ANGOLA & GUINÉE ÉQUATORIALE",

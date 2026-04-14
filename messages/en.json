@@ -247,7 +247,56 @@
   "newsUpdates": {
     "title": "News & Updates",
     "subtitle": "Stay informed with the latest news, announcements, and spiritual reflections from Pope Leo XIV's apostolic journey",
-    "readArticle": "Read Article"
+            "readArticle": "Read Article",
+    "backToNews": "Back to News",
+    "cwaArticle": {
+      "title": "A CWA (Catholic Women's Association) Mother’s Hope for the upcoming Apostolic Visit",
+      "subtitle": "By Mami Marion Nkwanyuo",
+      "location": "Our Lady of Hope Diocese, Douala",
+      "intro": "As the rhythmic chanting of the CWA fills our parishes and our blue-and-white uniforms are pressed in readiness, we find ourselves at a historic threshold. For us, the \"Mothers of the Church,\" the upcoming visit of His Holiness is more than a diplomatic event; it is a spiritual homecoming.",
+      "content": "We carry the weight of our families and the silent prayers of our communities in our hearts, looking to the Holy Father as a shepherd who brings a message of \"spiritual significance, peace, and hope\". In a time when our society yearns for healing and reconciliation, we expect this visit to be a \"moment of grace\" that strengthens our commitment to the Gospel and amplifies the voices of those who suffer in silence. Drawing inspiration from the Blessed Virgin Mary, our model of service and humility, we wait with \"attentive hearts,\" eager to receive the Pope’s blessing as a catalyst for unity and a renewal of our mission as peacemakers within our homes and our nation. As a CWA Mother, my expectations for the Papal visit are rooted in our identity as a \"pillar of strength and service\". Guided by the motto \"To Serve & Not To Be Served\", I look forward to the visit as a moment of profound spiritual renewal, recognition of women's vital roles and leadership empowerment, advocacy for justice and peace and strengthening family & community.",
+      "sections": [
+        {
+          "title": "1. Spiritual Enrichment and Renewal",
+          "items": [
+            "I expect the visit to provide spiritual nourishment through the celebration of the Holy Mass, deepening my personal relationship with God.",
+            "Mary as a Model: Following the CWA slogan \"Through Mary to Jesus,\" I look for the Pope to highlight the \"feminine genius\" and the exemplary life of Mother Mary.",
+            "There is a strong expectation for the Pope to invoke the intercession of Our Lady of the Immaculate Conception patroness of the CWA, and to acknowledge our tireless work in \"evangelizing families\"."
+          ]
+        },
+        {
+          "title": "2. Recognition of Women’s Roles and Leadership Empowerment",
+          "items": [
+            "I hope for a message that validates our contributions not just as \"mothers of the Church,\" but as essential leaders in pastoral work and community development.",
+            "Based on recent Papal themes, I expect encouragement for women to take on more decision-making roles and higher responsibility within state hierarchy.",
+            "I look for the Holy Father to specifically thank laywomen who labor in parishes and their homes, often in the face of inequality."
+          ]
+        },
+        {
+          "title": "3. Advocacy for Justice and Peace",
+          "items": [
+            "As \"moral bearers in the community,\" I expect a message of hope and reconciliation, especially in regions facing instability or conflict.",
+            "I look for the Pope to address issues like gender-based violence, inequality, and the protection of the dignity of women and girls.",
+            "I expect the visit to spotlight the CWA’s core mission of charitable works, such as helping the sick, the underprivileged, and the marginalized."
+          ]
+        },
+        {
+          "title": "4. Strengthening Family and Community",
+          "items": [
+            "I hope for guidance on promoting Catholic family values and molding children and youth in a challenging modern era.",
+            "I expect the visit to foster social cohesion and a \"culture of encounter,\" bringing together women of different backgrounds to work for the common good."
+          ]
+        }
+      ],
+      "conclusion": "In conclusion, for a CWA mother, the Apostolic Visit of Pope Leo XIV represents more than a historic event; it is a spiritual homecoming. I look to the Holy Father to rekindle the flame of faith within my family and to offer a blessing of peace upon a world in need. Ultimately, my hope is that this visit will leave an enduring legacy of grace, strengthening my resolve to lead my home and community with renewed devotion and maternal love.",
+      "author": {
+        "name": "Mami Marion Nkwanyuo",
+        "branch": "CWA Model of Virtue Branch",
+        "zone": "Spotless Maid Zone",
+        "division": "Throne of Wisdom Division",
+        "diocese": "Our Lady of Hope Diocese, Douala"
+      }
+    }
   
   },
   "quickFacts": {

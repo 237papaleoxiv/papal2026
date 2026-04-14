@@ -1,13 +1,22 @@
 'use client'
 
-import { useTranslations } from 'next-intl'
+import { useTranslations, useLocale } from 'next-intl'
 import { Button } from '@/components/ui/button'
 import { ArrowRight } from 'lucide-react'
 
 export default function NewsUpdates() {
   const t = useTranslations('newsUpdates')
+  const locale = useLocale()
 
   const newsCards = [
+    {
+      id: 0,
+      title: "A CWA (Catholic Women's Association) Mother’s Hope for the upcoming Apostolic Visit",
+      description: "As the rhythmic chanting of the CWA fills our parishes and our blue-and-white uniforms are pressed in readiness, we find ourselves at a historic threshold. For us, the \"Mothers of the Church,\" the upcoming visit of His Holiness is more than a diplomatic event; it is a spiritual homecoming.",
+      image: "/cwa_mother.png",
+      link: `/${locale}/news/cwa-mothers-hope`,
+      isInternal: true
+    },
     {
       id: 1,
       title: " Vatican Announces Pope Leo XIV&apos;s 11-Day Pastoral Visit to Four African Countries in April",
@@ -52,6 +61,14 @@ export default function NewsUpdates() {
     }
   ]
 
+  const handleLink = (link: string, isInternal?: boolean) => {
+    if (isInternal) {
+      window.location.href = link
+    } else {
+      window.open(link, '_blank')
+    }
+  }
+
   return (
     <div className="min-h-screen bg-[#eff2f8] py-24">
       <div className="max-w-7xl mx-auto px-6 lg:px-8">
@@ -67,26 +84,26 @@ export default function NewsUpdates() {
 
         <div className="mb-24">
           <div className="overflow-hidden">
-            <div className="grid md:grid-cols-2 gap-0">
+            <div className="grid md:grid-cols-2 gap-0 border border-gray-100 bg-white rounded-2xl shadow-sm">
               <div className="relative h-64 md:h-auto">
                 <img
                   src={newsCards[0].image}
                   alt={newsCards[0].title}
-                  className="absolute inset-0 rounded-md w-full h-full object-cover"
+                  className="absolute inset-0 w-full h-full object-cover"
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-black/30 to-transparent"></div>
               </div>
               <div className="p-8 lg:p-12">
-                <h2 className="text-2xl md:text-3xl font-bold text-gray-900 mb-4 font-crimson-text" title={newsCards[0].title}>
+                <h2 className="text-2xl md:text-3xl font-bold text-gray-900 mb-4 font-crimson-text">
                   {newsCards[0].title}
                 </h2>
-                <p className="text-gray-600 mb-6 leading-relaxed" title={newsCards[0].description}>
+                <p className="text-gray-600 mb-6 leading-relaxed">
                   {newsCards[0].description}
                 </p>
                 <Button 
                   size="lg" 
                   className="text-white hover:cursor-pointer hover:opacity-90 px-8 py-6 font-open-sans font-bold bg-primary"
-                  onClick={() => window.open(newsCards[0].link, '_blank')}
+                  onClick={() => handleLink(newsCards[0].link, newsCards[0].isInternal)}
                 >
                  {t('readArticle')}
                   <ArrowRight className="ml-2 h-5 w-5" />
@@ -117,7 +134,7 @@ export default function NewsUpdates() {
                   </p>
                   
                   <Button
-                    onClick={() => window.open(card.link, '_blank')}
+                    onClick={() => handleLink(card.link, card.isInternal)}
                     className="w-full bg-primary hover:cursor-pointer hover:bg-primary/90 text-white font-semibold py-3 px-4 rounded-lg transition-colors duration-200 flex items-center justify-center group mt-auto"
                   >
                     {t('readArticle')}
