@@ -49,11 +49,16 @@
       "catholicNewsAgency": "Catholic News Agency",
       "vatican237": "Vatican237.org"
     },
-    "social": {
+        "social": {
       "facebook": "Facebook",
       "twitter": "Twitter / X",
       "instagram": "Instagram",
       "youtube": "YouTube"
+    },
+    "floatingBar": {
+      "title": "The Holy Father's Apostolic Journey to Africa",
+      "dates": "April 13–23, 2026",
+      "watchLive": "Watch Live"
     }
   },
   "common": {
