@@ -5,6 +5,7 @@
   "navigation": {
     "home": "Home",
     "presidentSpeech": "Speech from President",
+    "pressKit": "Press Kit",
     "about": "About",
     "holyFather": "The Holy Father",
     "popeSchedule": "Pope's Schedule",
@@ -434,5 +435,9 @@
     "speechParagraph4": "During this apostolic journey, I call upon all Cameroonians, regardless of religious affiliation, to welcome the Holy Father with open hearts and minds. May his visit inspire us to redouble our efforts toward national unity, social justice, and sustainable development for all our citizens.",
     "speechParagraph5": "As we prepare to receive Pope Leo XIV, let us renew our commitment to the values that unite us: peace, solidarity, and mutual respect. Together, we can build a stronger, more prosperous Cameroon that honors our diversity while celebrating our common humanity.",
     "closing": "Long live Cameroon! Long live the Holy Father! Long live the friendship between Cameroon and the Holy See!"
+  },
+  "pressKit": {
+    "title": "Press Kit",
+    "subtitle": "Official press materials for Pope Leo XIV's visit to Cameroon"
   }
 }

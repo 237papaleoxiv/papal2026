@@ -5,6 +5,7 @@
   "navigation": {
     "home": "Accueil",
     "presidentSpeech": "Discours du Président",
+    "pressKit": "Dossier de Presse",
     "about": "À propos",
     "holyFather": "Le Saint-Père",
     "popeSchedule": "Programme du Pape",
@@ -436,5 +437,9 @@
         "subscribe": "S'abonner à la Newsletter"
       },
       "contactInfo": "Pour plus d'informations, visitez notre page de contact ou envoyez-nous un email à info@papalvisit.org"
-    }
+  },
+  "pressKit": {
+    "title": "Dossier de Presse",
+    "subtitle": "Matériels de presse officiels pour la visite du Pape Léon XIV au Cameroun"
+  }
 }

@@ -78,6 +78,9 @@ export default function Navbar() {
             <Link href={`/${locale}/services`} className={getActiveClasses(`/${locale}/services`)}>
               {t('popeSchedule')}
             </Link>
+            <Link href={`/${locale}/press-kit`} className={getActiveClasses(`/${locale}/press-kit`)}>
+              {t('pressKit')}
+            </Link>
           
             <Link href={`/${locale}/news`} className={getActiveClasses(`/${locale}/news`)}>
               {t('news')}
@@ -153,6 +156,9 @@ export default function Navbar() {
             </Link>
             <Link href={`/${locale}/services`} className={getActiveClasses(`/${locale}/services`, true)} onClick={handleNavClick}>
               {t('popeSchedule')}
+            </Link>
+            <Link href={`/${locale}/press-kit`} className={getActiveClasses(`/${locale}/press-kit`, true)} onClick={handleNavClick}>
+              {t('pressKit')}
             </Link>
             <Link href={`/${locale}/news`} className={getActiveClasses(`/${locale}/news`, true)} onClick={handleNavClick}>
               {t('news')}
